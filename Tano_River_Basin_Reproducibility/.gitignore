@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+.env
+01_data/raw/
+04_figures/*.png
+04_figures/*.jpg
